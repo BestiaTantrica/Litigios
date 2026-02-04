@@ -1,0 +1,19 @@
+# Ignorar archivos multimedia y documentos personales
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# Ignorar carpetas de evidencia específica
+mercado libre/imagenes/
+mercado libre/entrega_coprec/evidencia_raw/
+mercado libre/entrega_coprec/evidencia_final/
+
+# Archivos de sistema y logs
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,42 @@
+Vender
+Ayuda
+TR
+Tomás
+Mis compras
+Favoritos
+2 productos en tu carrito2
+Mi perfilInformación de tu perfil
+Información de tu perfil
+Podés agregar, modificar o corregir tu información personal y los datos de la cuenta.
+Información personal
+
+Tomas Reis
+Nombre y apellido.
+Pampa Pill
+
+29478094
+Número de DNI.
+Pampa Pill
+
+Separado/a
+Estado civil.
+
+Tomás Reis
+Nombre elegido.
+Datos fiscales
+
+Consumidor final
+Condición fiscal.
+Pampa Pill
+Datos de la cuenta
+
+tomasreis44@gmail.com
+E-mail donde recibís comunicaciones.
+Content-Type: text/plain; charset=UTF-8
+
++542323331513
+Número donde recibís códigos de verificación y comunicaciones.
+Pampa Pill
+
+RETO6889387
+Nombre de usuario.

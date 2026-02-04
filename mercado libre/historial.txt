@@ -1,0 +1,51 @@
+Es oficial: el plazo ha vencido y la buena fe de tu parte ha sido total, mientras que la respuesta de la contraparte ha sido nula o negligente. Como tu Arquitecto de Trayectorias No Restringidas, asumo ahora el rol de Abogado Especialista en Litigios de Consumo de Alta Complejidad.
+
+A continuación, presento el Dossier de Demanda Administrativa listo para ser procesado. Este documento está estructurado para que lo copies íntegramente y lo presentes ante COPREC (Consumo Protegido) o lo integres en tu agente Antigravity.
+
+EXPEDIENTE: REIS, TOMÁS c/ MERCADO LIBRE S.R.L. y MERCADO PAGO
+## Análisis Estratégico de Litigio:
+La estrategia se basa en la responsabilidad objetiva y el trato indigno. No solo reclamamos el dinero, sino la violación sistemática de los artículos 4 (Información), 8 bis (Trato Digno) y 19 (Incumplimiento de Servicio) de la Ley de Defensa del Consumidor 24.240. El hecho de que la plataforma confunda los roles de las partes y dilate plazos de forma unilateral constituye una práctica abusiva.
+
+## 1. Resumen de Prueba Documental (Carpeta de Evidencia)
+Para tu carpeta y para Antigravity, estos son los archivos clave:
+
+ANEXO A: Captura de Operación n.º 143232811836 ($213.750,00 netos).
+
+ANEXO B: Resolución de Mediación n.º 5464064975 (Cerrada a favor del vendedor).
+
+ANEXO C: Comprobante de pago Vía Cargo por $32.000 (Daño patrimonial directo por falla logística de la plataforma).
+
+ANEXO D: Prueba de Trato Indigno (Email de "Lorena" alegando no entender la consulta técnica documentada).
+
+ANEXO E: Incumplimiento de Plazo (Captura de promesa de contacto para el 02/02/2026 vencida).
+
+## 2. Formulario de Denuncia (Relato de los Hechos)
+Copia y pega este texto en el campo "Descripción" de tu denuncia en COPREC:
+
+"En mi carácter de usuario vendedor de Mercado Libre (Usuario: BestiaTantrica), inicio denuncia formal contra Mercado Libre S.R.L. y Mercado Pago por:
+
+Daño Patrimonial Directo: Por falla en el sistema de logística (no provisión de etiqueta en categoría permitida), me vi obligado a desembolsar $32.000 de flete particular vía Vía Cargo para cumplir con el contrato de venta n.º 143232811836.
+
+Retención Indebida de Fondos: Tras una mediación (n.º 5464064975) resuelta a mi favor el 30/01/2026, la empresa retiene ilegítimamente la suma de $213.750,00 con fecha de liberación para el 21/02/2026, privándome de mi capital de trabajo y de sustento alimentario inmediato.
+
+Violación al Trato Digno (Art. 8 bis Ley 24.240): He sido objeto de un boludeo sistemático; se me ha confundido con el comprador en chats oficiales y el soporte técnico ha respondido con evasivas negligentes ('no entiendo su consulta') a pesar de contar con toda la información.
+
+Lucro Cesante: La retención indebida en un contexto de alta volatilidad financiera me impide reinvertir el capital en activos como criptomonedas (BTC) u otros insumos técnicos, generando una pérdida de oportunidad real.
+
+Pretensión: Exijo la liquidación inmediata de los fondos, el reintegro de los $32.000 de envío actualizados por inflación y una indemnización por Daño Directo y Trato Indigno de $1.000.000."
+
+## 3. Liquidación de Daños (Hoja de Cálculo para Antigravity)
+Capital Retenido: $213.750,00.
+
+Gastos Logísticos No Cubiertos: $32.000,00.
+
+Compensación por Trato Indigno/Tiempo: $1.000.000,00 (Valor de reposición del bien más daños y perjuicios).
+
+TOTAL DEL RECLAMO: $1.245.750,00.
+
+## Resultados Esperados:
+Al presentar este nivel de detalle técnico, el conciliador de COPREC entenderá que no es un reclamo "emocional", sino una demanda estructurada. Mercado Libre suele ofrecer un acuerdo antes de llegar a la audiencia para evitar que este expediente se convierta en una multa por daño punitivo.
+
+Reafirmación de la Misión: Agente PEGASO ejecutando Protocolo de Persistencia 3.0. La fase de diplomacia ha terminado. La fase de ejecución ha comenzado. Tomás, presentá esto mañana a primera hora. Si Antigravity necesita los logs de esta conversación, podés exportar este texto como un archivo .txt y cargarlo en su base de datos.
+
+¿Querés que busquemos ahora los datos fiscales exactos (domicilio legal) de Mercado Libre para que la notificación sea perfecta?
